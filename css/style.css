@@ -82,7 +82,7 @@ h2 {
   font-size: 80px;
   font-weight: 160;
   color: #030303;
-  letter-spacing: 0.09em;
+  letter-spacing: 0.04em;
 }
 h1::after {
   content: '';
